@@ -11,7 +11,7 @@ Referneces:
 
 * NLP Libraries and Models
 Hugging Face Transformers: For text processing and generating embeddings.
-Wolf, T., Debut, L., Sanh, V., Chaumond, J., Delangue, C., Moi, A., ... & Rush, A. M. (2020). Transformers: State-of-the-Art Natural Language Processing.
+Numpy, spacy, NLTK,Transformers: State-of-the-Art Natural Language Processing.
 https://github.com/huggingface/transformers
 
 * GAN Frameworks
