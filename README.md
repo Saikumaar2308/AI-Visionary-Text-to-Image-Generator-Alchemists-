@@ -9,26 +9,26 @@
 
 Referneces: 
 
-*NLP Libraries and Models
+* NLP Libraries and Models
 Hugging Face Transformers: For text processing and generating embeddings.
 Wolf, T., Debut, L., Sanh, V., Chaumond, J., Delangue, C., Moi, A., ... & Rush, A. M. (2020). Transformers: State-of-the-Art Natural Language Processing.
 https://github.com/huggingface/transformers
 
-*GAN Frameworks
+* GAN Frameworks
 Hugging Face’s Diffusers library: For pretrained generative models.
 https://github.com/huggingface/diffusers
 
-*Development Environment
+* Development Environment
 Local Environment: Set up on a personal computer with necessary libraries and frameworks installed.
 Python: Utilize Python for scripting and running models
 
-*Web Development
+* Web Development
 React: For building the web application interface.
 React: A JavaScript library for building user interfaces.
 https://reactjs.org/
 
 
-*Specific Implementations
+* Specific Implementations
 Hugging Face Model Hub: For accessing pretrained models.
 Hugging Face. Model Hub
 https://huggingface.co/models
