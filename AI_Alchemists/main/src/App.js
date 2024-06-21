@@ -1,5 +1,5 @@
 import './App.css';
-import ImageGenerationForm from './components/ImageGen';
+import ImageGenerationForm from './components/Text2Image';
 
 function App() {
   return (
